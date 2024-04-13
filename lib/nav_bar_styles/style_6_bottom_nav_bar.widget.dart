@@ -80,7 +80,7 @@ class _BottomNavStyle6State extends State<BottomNavStyle6>
                           const SizedBox.shrink()
                         else
                           Padding(
-                            padding: const EdgeInsets.only(top: 15),
+                            padding: const EdgeInsets.only(top: 6),
                             child: Material(
                               type: MaterialType.transparency,
                               child: FittedBox(
